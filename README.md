@@ -1,4 +1,4 @@
-# Links' Lucky Egg Pancake Recipe 🥚
+# Onion Knight's Lucky Egg Pancake Recipe 🥚
 
 <img src="https://media.giphy.com/media/WFBNVLwsXoKqc/giphy.gif?cid=ecf05e477yunt98hzpl1yeb3mg02076ywqoaz5auk6qwk0rz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600px" />
 
