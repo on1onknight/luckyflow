@@ -1,9 +1,12 @@
 
-HOST-SUFFIX,data.phantom.app,Cryptocurrency
+# Phantom
+HOST-SUFFIX,phantom.app,Cryptocurrency
 
+# OKX
 HOST-SUFFIX,okex.com,Cryptocurrency
 HOST-SUFFIX,oklink.com,Cryptocurrency
 HOST-SUFFIX,okx.com,Cryptocurrency
 
+# Jupiter
 HOST-SUFFIX,jup.ag,Cryptocurrency
 HOST,portfolio-api-jup-mobile.sonar.watch,Cryptocurrency
