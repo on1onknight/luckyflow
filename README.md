@@ -73,6 +73,7 @@ When the egg is mostly set (about 1 minute), carefully flip with the silicone sp
 ---
 
 <div style="text-align: left; margin-top: 3em;">
+This project uses [GPL-3.0 license](LICENSE)
 Enjoy it.
 </div>
 
