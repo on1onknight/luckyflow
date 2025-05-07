@@ -17,3 +17,6 @@ HOST-SUFFIX,pttime.org,PrivateTracker
 HOST-SUFFIX,springsunday.net,PrivateTracker
 # > TTG
 HOST-SUFFIX,totheglory.im,PrivateTracker
+
+# other
+HOST-SUFFIX,hdcmct.org,PrivateTracker

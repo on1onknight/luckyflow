@@ -10,3 +10,8 @@ HOST-SUFFIX,okx.com,Cryptocurrency
 # Jupiter
 HOST-SUFFIX,jup.ag,Cryptocurrency
 HOST,portfolio-api-jup-mobile.sonar.watch,Cryptocurrency
+
+# other
+HOST-SUFFIX,bitget.com,Cryptocurrency
+HOST-SUFFIX,bybit.com,Cryptocurrency
+HOST-SUFFIX,binance.com,Cryptocurrency

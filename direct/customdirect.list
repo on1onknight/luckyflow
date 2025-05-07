@@ -1,2 +1,3 @@
-# > Cursor
-HOST-SUFFIX,cursor.sh,CustomDirect
+
+HOST-SUFFIX, cursor.sh, CustomDirect
+host-wildcard, *.bitwarden.*, CustomDirect
