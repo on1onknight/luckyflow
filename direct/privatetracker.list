@@ -1,22 +1,22 @@
 
 # > 家园
-HOST-SUFFIX,hdhome.org,PrivateTracker
+HOST-SUFFIX, hdhome.org, PrivateTracker
 # > 天空
-HOST-SUFFIX,hdsky.me,PrivateTracker
+HOST-SUFFIX, hdsky.me, PrivateTracker
 # > 馒头
-HOST-KEYWORD,m-team,PrivateTracker
+HOST-KEYWORD, m-team, PrivateTracker
 # > 皇后
-HOST-SUFFIX,open.cd,PrivateTracker
+HOST-SUFFIX, open.cd, PrivateTracker
 # > 我堡
-HOST-SUFFIX,ourbits.club,PrivateTracker
+HOST-SUFFIX, ourbits.club, PrivateTracker
 # > 朋友
-HOST-SUFFIX,keepfrds.com,PrivateTracker
+HOST-SUFFIX, keepfrds.com, PrivateTracker
 # > 时间
-HOST-SUFFIX,pttime.org,PrivateTracker
+HOST-SUFFIX, pttime.org, PrivateTracker
 # > 春天
-HOST-SUFFIX,springsunday.net,PrivateTracker
+HOST-SUFFIX, springsunday.net, PrivateTracker
 # > TTG
-HOST-SUFFIX,totheglory.im,PrivateTracker
+HOST-SUFFIX, totheglory.im, PrivateTracker
 
 # other
-HOST-SUFFIX,hdcmct.org,PrivateTracker
+HOST-SUFFIX, hdcmct.org, PrivateTracker

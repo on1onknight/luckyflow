@@ -1,17 +1,17 @@
 
 # Phantom
-HOST-SUFFIX,phantom.app,Cryptocurrency
+HOST-SUFFIX, phantom.app, Cryptocurrency
 
 # OKX
-HOST-SUFFIX,okex.com,Cryptocurrency
-HOST-SUFFIX,oklink.com,Cryptocurrency
-HOST-SUFFIX,okx.com,Cryptocurrency
+HOST-SUFFIX, okex.com, Cryptocurrency
+HOST-SUFFIX, oklink.com, Cryptocurrency
+HOST-SUFFIX, okx.com, Cryptocurrency
 
 # Jupiter
-HOST-SUFFIX,jup.ag,Cryptocurrency
-HOST,portfolio-api-jup-mobile.sonar.watch,Cryptocurrency
+HOST-SUFFIX, jup.ag, Cryptocurrency
+HOST, portfolio-api-jup-mobile.sonar.watch, Cryptocurrency
 
 # other
-HOST-SUFFIX,bitget.com,Cryptocurrency
-HOST-SUFFIX,bybit.com,Cryptocurrency
-HOST-SUFFIX,binance.com,Cryptocurrency
+HOST-SUFFIX, bitget.com, Cryptocurrency
+HOST-SUFFIX, bybit.com, Cryptocurrency
+HOST-SUFFIX, binance.com, Cryptocurrency
