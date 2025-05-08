@@ -15,3 +15,6 @@ HOST, portfolio-api-jup-mobile.sonar.watch, Cryptocurrency
 HOST-SUFFIX, bitget.com, Cryptocurrency
 HOST-SUFFIX, bybit.com, Cryptocurrency
 HOST-SUFFIX, binance.com, Cryptocurrency
+HOST-SUFFIX, coingecko.com, Cryptocurrency
+HOST-SUFFIX, coinmarketcap.com, Cryptocurrency
+host-wildcard, *.bitget.*, Cryptocurrency
