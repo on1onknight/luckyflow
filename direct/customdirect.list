@@ -1,4 +1,5 @@
 
+host-suffix, speedtest.net, CustomDirect
 host-suffix, ziroom.com, CustomDirect
 HOST-SUFFIX, cursor.sh, CustomDirect
 host-wildcard, *.bitwarden.*, CustomDirect
