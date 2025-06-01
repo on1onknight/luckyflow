@@ -3,3 +3,4 @@ host-suffix, itunes.apple.com, Apple
 host-suffix, icloud.com, Apple
 host, init.push.apple.com, Apple
 host-suffix, mail.me.com, Apple
+host-suffix, icloud-content.com, Apple
