@@ -1,0 +1,8 @@
+host-suffix, apple.com, Apple
+host-suffix, apple.cn, Apple
+host-suffix, itunes.apple.com, Apple
+host-suffix, icloud.com, Apple
+host, init.push.apple.com, Apple
+host-suffix, mail.me.com, Apple
+host-suffix, icloud-content.com, Apple
+host-suffix, cdn-apple.com, Apple
