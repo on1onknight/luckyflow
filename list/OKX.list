@@ -1,3 +1,5 @@
 HOST-SUFFIX, okex.com, OKX
 HOST-SUFFIX, oklink.com, OKX
 HOST-SUFFIX, okx.com, OKX
+host, web3.okx.com.cdn.cloudflare.net, OKX
+host, wspri.okx.com.cdn.cloudflare.net, OKX
